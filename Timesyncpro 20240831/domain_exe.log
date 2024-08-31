@@ -1,0 +1,53 @@
+2024-08-31 07:20:43,760 - __main__ - INFO - スクリプト実行開始
+2024-08-31 07:20:43,761 - __main__ - INFO - モジュールのインポートを開始: template_saas=nextjs, system_name=20240831_1619_timesyncpro
+2024-08-31 07:20:43,870 - __main__ - DEBUG - ルートディレクトリ: /root/babel_generated/20240831_1619_timesyncpro/temp
+2024-08-31 07:20:43,879 - __main__ - INFO - モジュールのインポートが完了しました
+2024-08-31 07:20:43,911 - __main__ - INFO - package.jsonを作成しました: /root/babel_generated/20240831_1619_timesyncpro/temp/package.json
+2024-08-31 07:20:43,937 - __main__ - INFO - 並列処理開始: 合計 9 ファイル
+2024-08-31 07:20:43,944 - __main__ - DEBUG - プロセス開始: page.tsx
+2024-08-31 07:20:43,944 - __main__ - DEBUG - プロセス開始: page.tsx
+2024-08-31 07:20:43,957 - __main__ - DEBUG - ファイル作成開始: page.tsx
+2024-08-31 07:20:43,945 - __main__ - DEBUG - プロセス開始: page.tsx
+2024-08-31 07:20:43,977 - __main__ - DEBUG - ファイル作成開始: page.tsx
+2024-08-31 07:20:43,984 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/app/tasks/page.tsx
+2024-08-31 07:20:43,946 - __main__ - DEBUG - プロセス開始: GoogleCalendarSync.tsx
+2024-08-31 07:20:43,946 - __main__ - DEBUG - プロセス開始: ProductivityChart.tsx
+2024-08-31 07:20:43,946 - __main__ - DEBUG - プロセス開始: SettingsForm.tsx
+2024-08-31 07:20:44,006 - __main__ - DEBUG - ファイル作成開始: SettingsForm.tsx
+2024-08-31 07:20:43,944 - __main__ - DEBUG - プロセス開始: page.tsx
+2024-08-31 07:20:43,945 - __main__ - DEBUG - プロセス開始: Timer.tsx
+2024-08-31 07:20:43,945 - __main__ - DEBUG - プロセス開始: TaskList.tsx
+2024-08-31 07:20:43,989 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/app/settings/page.tsx
+2024-08-31 07:20:43,997 - __main__ - DEBUG - ファイル作成開始: GoogleCalendarSync.tsx
+2024-08-31 07:20:44,001 - __main__ - DEBUG - ファイル作成開始: ProductivityChart.tsx
+2024-08-31 07:20:43,948 - __main__ - DEBUG - ファイル作成開始: page.tsx
+2024-08-31 07:20:44,018 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/components/SettingsForm.tsx
+2024-08-31 07:20:44,021 - __main__ - DEBUG - ファイル作成開始: page.tsx
+2024-08-31 07:20:44,024 - __main__ - DEBUG - ファイル作成開始: Timer.tsx
+2024-08-31 07:20:44,033 - __main__ - DEBUG - ファイル作成開始: TaskList.tsx
+2024-08-31 07:20:44,048 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/components/GoogleCalendarSync.tsx
+2024-08-31 07:20:44,051 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/components/ProductivityChart.tsx
+2024-08-31 07:20:44,056 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/app/page.tsx
+2024-08-31 07:20:44,072 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/components/Timer.tsx
+2024-08-31 07:20:44,073 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/app/reports/page.tsx
+2024-08-31 07:20:44,080 - __main__ - DEBUG - ファイルパス: /root/babel_generated/20240831_1619_timesyncpro/temp/components/TaskList.tsx
+2024-08-31 07:20:50,882 - __main__ - DEBUG - ファイル作成完了: page.tsx
+2024-08-31 07:20:50,892 - __main__ - DEBUG - プロセス完了: page.tsx
+2024-08-31 07:20:54,972 - __main__ - DEBUG - ファイル作成完了: page.tsx
+2024-08-31 07:20:54,978 - __main__ - DEBUG - プロセス完了: page.tsx
+2024-08-31 07:20:58,570 - __main__ - DEBUG - ファイル作成完了: page.tsx
+2024-08-31 07:20:58,575 - __main__ - DEBUG - プロセス完了: page.tsx
+2024-08-31 07:20:58,989 - __main__ - DEBUG - ファイル作成完了: Timer.tsx
+2024-08-31 07:20:58,994 - __main__ - DEBUG - プロセス完了: Timer.tsx
+2024-08-31 07:20:59,441 - __main__ - DEBUG - ファイル作成完了: GoogleCalendarSync.tsx
+2024-08-31 07:20:59,445 - __main__ - DEBUG - プロセス完了: GoogleCalendarSync.tsx
+2024-08-31 07:21:00,495 - __main__ - DEBUG - ファイル作成完了: page.tsx
+2024-08-31 07:21:00,500 - __main__ - DEBUG - プロセス完了: page.tsx
+2024-08-31 07:21:01,433 - __main__ - DEBUG - ファイル作成完了: TaskList.tsx
+2024-08-31 07:21:01,444 - __main__ - DEBUG - プロセス完了: TaskList.tsx
+2024-08-31 07:21:01,624 - __main__ - DEBUG - ファイル作成完了: ProductivityChart.tsx
+2024-08-31 07:21:01,630 - __main__ - DEBUG - プロセス完了: ProductivityChart.tsx
+2024-08-31 07:21:05,851 - __main__ - DEBUG - ファイル作成完了: SettingsForm.tsx
+2024-08-31 07:21:05,856 - __main__ - DEBUG - プロセス完了: SettingsForm.tsx
+2024-08-31 07:21:05,862 - __main__ - INFO - すべてのファイル生成が完了しました
+2024-08-31 07:21:05,867 - __main__ - INFO - スクリプト実行終了
